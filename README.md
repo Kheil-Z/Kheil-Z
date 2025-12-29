@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+https://Kheil-Z.github.io/
+
+I'm Ziad Kheil, I recently obtained my PhD in Deep Learning for Healthcare (Medical Imaging and Radiotherapy).
+
+I enjoy understanding new things, from science to chess.
+
+- 🤔 I’m always looking to collaborate on data-based scientific discovery in oncology and healthcare.
+- ☕️ Often up for a coffee break.
 <!--
 **Kheil-Z/Kheil-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
