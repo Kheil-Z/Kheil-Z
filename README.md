@@ -1,24 +1,14 @@
-## Hi there 👋
+### Hi, I'm Ziad 👋
 
-https://Kheil-Z.github.io/
+Deep learning PhD researcher working on **computer vision for 3D and time-resolved data**, **physics-informed training**, **multimodal biomedical data** (CT/MRI, whole-slide images, omics), and **LLM / VLM agents and evaluation**.
 
-I'm Ziad Kheil, I recently obtained my PhD in Deep Learning for Healthcare (Medical Imaging and Radiotherapy).
+**Highlights**
+- 🧩 [biomechanical_DLIR](https://github.com/Kheil-Z/biomechanical_DLIR): PyTorch framework for physically constrained image deformation learning (rigidity, sliding, learned tissue mechanics). Scientific Reports 2026. [Try it live on Hugging Face](HF_SPACE_URL)
+- ⏱️ [IMITATE](https://github.com/Kheil-Z/IMITATE): conditional network that reconstructs missing frames in 3D time sequences (IEEE ISBI 2025, oral)
+- 🏆 [VisioMel](https://github.com/Kheil-Z/VisioMelSolution): 2nd place, melanoma relapse prediction from gigapixel slide images
+- 💬 [Elenchus](https://github.com/Kheil-Z/elenchus): multiplayer LLM workspace (TypeScript)
 
 I enjoy understanding new things, from science to chess.
 
-- 🤔 I’m always looking to collaborate on data-based scientific discovery in oncology and healthcare.
+- 🤔 Always happy to collaborate on data-driven scientific discovery in oncology and healthcare, and on physics-informed / constrained learning.
 - ☕️ Often up for a coffee break.
-<!--
-**Kheil-Z/Kheil-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
